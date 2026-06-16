@@ -1,2 +1,25 @@
-# 49d07bc9-llm-fine-tuning-training-spr
-Stop guessing how much your next LLM fine-tuning project will cost — one wrong estimate could burn through your budget in hours. This spreadsheet calculator bundle turns vague predictions into precise, actionable numbers.  This bundle solves the biggest pain point in LLM fine-tuning: opaque cost and time projections. It gives you a structured frame
+# LLM Fine-Tuning & Training Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w4gz26H6Ake005bud0n2p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w4gz26H6Ake005bud0n2p)
+
